@@ -6,16 +6,16 @@ Mô hình tổ chức hoạt động của Devops Tribe Squads Chapter ---> Lear
 Các công nghệ chính đang sử dụng --> After highly overview Sendo's architecture | normal
 1. Quy trình CI/CD --> Urgen (where to learn: udemy, deeply - must have docs)
 1. Database architecture --> Urgen (overview), YT, wiki, normal
-Quy trình quản lý config ? 
-Tìm hiểu Monitor system --> Urgen (overview)
+Quy trình quản lý config (manifest file) ? 
+Tìm hiểu Monitor system (Logs: Splunk, Monitor: Prometheus and Grafana) --> Urgen (overview)
 Quy trình đánh giá checkpoint của devops --> Urgen (overview)
-Tham gia vào một Squads ?? | Normal
+Tham gia vào một Squads ? | Normal 
 
 ---
 
-1. Kiến trúc hệ thống Sendo
-1. Tìm hiểu hạ tầng multi Cloud
-1. Kiến trúc Microservices
-Sendo Platform as Services
+1. Kiến trúc hệ thống endo | Urgen
+1. Tìm hiểu hạ tầng multi Cloud | Urgen
+1. Kiến trúc Microservices | Urgen
+Sendo Platform as Services 
 
 --- a week done ---
